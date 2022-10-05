@@ -15,7 +15,7 @@ public class ReassigningValues {
         int linkToThird = third;
 
         first = 15;
-        second = 5;
+        second = 6;
         third = 4;
 
         System.out.println(first);
